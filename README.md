@@ -17,3 +17,6 @@ When WeatherStation calls the display method, it uses the current strategy, whic
 
 -Observer Pattern:
 The Observer interface (and its concrete implementations, TemperatureDisplay and ForecastDisplay) is separate from the display strategy logic. These classes listen for temperature updates from the WeatherStation and act accordingly.
+
+-Class Diagram
+![alt text](designpattern.jpeg)
