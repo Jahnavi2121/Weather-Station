@@ -29,7 +29,7 @@ This project is a **Weather Station System** that displays temperature in multip
 
 Below is the requirement diagram for the Weather Station project, illustrating how the system requirements map to design patterns and interfaces:
 
-![Requirement Diagram](requirementdiagram.jpeg)
+![Requirement Diagram](Requirementdiagram.jpeg)
 
 This diagram shows:
 - The three key requirements for the system (flexible display options, real-time updates, and modular design).
