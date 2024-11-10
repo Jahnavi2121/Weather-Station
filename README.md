@@ -2,6 +2,7 @@
 
 This project is a **Weather Station System** that displays temperature in multiple formats and updates display units in real-time as temperature changes. It is implemented in Python and uses two primary design patterns: **DisplayStrategy** and **Observer**.
 
+
 ### Design Patterns Used
 
 - **DisplayStrategy Pattern**: This pattern provides flexibility in displaying temperature in different formats. The `WeatherStation` class holds a reference to an instance of `DisplayStrategy`, allowing it to use any concrete display strategy without direct dependency.
